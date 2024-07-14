@@ -18,5 +18,5 @@ This Python script organizes files on your desktop into categorized folders base
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/file-organizer.git
+   git clone https://github.com/alphonse-xavier-924e/file-organizer.git
    cd file-organizer
