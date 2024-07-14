@@ -1,6 +1,4 @@
 import os
-import time
-import schedule
 import shutil
 from datetime import datetime
 from collections import defaultdict
